@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="236" height="64" viewBox="0 0 236 64" role="img" aria-label="Visit Portfolio"><title>Visit Portfolio</title><style>@font-face{font-family:'CP';font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAATwAA4AAAAACpQAAAScAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbhDIcMAZgAIEMEQgKhjiETwE2AiQDSAsmAAQgBYNyByAbjggjEbZ7cXqF4C8SeCJif5TDA1XtAjqEUa92kWvqDKzaO3w+8bg2IRL/WY6HJ7v+O7e6Rv3mk8oArR0BzDYFQ0ApGBJ9qNPOepaewVsJ2QnLGDJEoW4PuBFN3dofltL8gLAiD8wzLvS+DCv7YIYcAAXwf/29pu8nHWO1WyZA0VgCHKFNKY0a0I9FQ61gBQ9YK3fHtY8fyIl37wR6/uaP0Oj5FShiw7a1Qvq4+2cRaAOSkHQTAqXx5ipWrt642erTPOedYfV56oETVstQ/QXi1JFzzrAQgZAlTYW2yTFb6Cwj6W2gkNSVQlkdhXY1krwg4wM/aOqgOj4Gj94OQ98AVEdvC0NvrljTORfHW1pv8tg8kWZshkpE6kg2ANPObRRjLoT2RfbWXsPBDlW2RjKqZKU4ftJSA6EuKWQNoaaTAHI3+tLUwN3MY5ftxY0eVdeiYgaVbc5rC2k+mkqbUcGqs1sKVXonXBsAIKPLfkNdh7bOuuiqm9ChIZcBWGsQC80sJDDD2/hxDCeaTNxK3WpXY+U0I203j3S95wIb9oi9cmM8NEB6wbWuWLlh6AuGOq/44v93yF+kQgTEzyliqAIJEvdUiHuUXQT011WhNNRqLdp16zdIpgnQsSoZ/S69yHoOqy9Hg16n3Uon49GwwB8lRPXXBXQHI9ELnxN9ALkPDDH5I6REusz1pkrXO9UHOmbXZs4F5cCuRbuWwGKAGGEXmQvR+qE5Q0sGUP9i2jenF3ejHpcg2A5YqeIq26AD5gYxwvOaIe8S5A1xBCpIEBzkRgQAU64sV3E9z4W5ZYDvCDiIPZEd2zBHuCECuBwBjLCLq+qoUI77yVNsj4gMVQ1L2Qh0pfoRXqaSQtIitcQIBIxkKcCuOeODBHY6qljbMPOM+u6V0lKeQesMm3WoYeaIm96BMuORYQiGw22he3ftfQVIHWpCkt/JSsF/FnHHxmPo58jLV+xcU+ebNWwWD3y/ubm3CsWOxhAUysNWwcCj2HYZy9KMLOfL8ohVKN2QmIRl+YKqlsPb4Vt0Pb01wmDpTHwyB+lDxr/PMAgeFNyC4nKddY4ubz7jPnXIhDJ76d6KvduYDbXmJxMaLpqXRLmQpnrpaooo7pkz9iY2TseH6o/aQG//AY9JpTQTkuwVOj87MVt45f7wiCEIv20namdmc6/cGxHCj3ARBL1Zgts+po+ddJ8ksgW2/zEQCK5e/urjri4Lf2sCxQ/w+RXuT+G7v9/+SxfSRektNCQQ/EHB9HQKlV1w1GG6p02EaJDmWh2lDWmc1enphekK73zAfoLOV5SWWp2u6RLX9oyGhf5bndYpituWpa7Gxt09BbobKOG9GnaaI3ILzxPJwnjPy5LOvpIVFvuxNGdlNctj8mXWjY1NRp1uJCxNURmfm51TzPerEi8i1eOf7eG7JUZVxlu6T4ox9jfWRJiqW2E+WWXMCJdmZSkaUyPeTKoHs4L5Fs2RstZqZ3gzp9Sa8rLr6JOCWq0eEHslJRLwWDmZ2eapZXX1bXzZZkfnjJlo0FxvtKaH+MPN103Jno8I6iLWQiwV7RhOYcrC1BxlrJ0LAA==) format('woff2')}
+
+.m{font-family:'JBM',ui-monospace,Consolas,Menlo,monospace} .d{font-family:'CP','Segoe UI',system-ui,sans-serif} .b{font-family:'PX','Segoe UI',system-ui,sans-serif}
+@keyframes blink{50%{opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes rspin{to{transform:rotate(-360deg)}}
+@keyframes drift{0%,100%{transform:translate(0,0);opacity:.25}50%{transform:translate(16px,-12px);opacity:.9}}
+@keyframes rise{from{transform:translateY(16px)}to{transform:none}}
+@keyframes pulse{50%{opacity:.35}}
+.rise{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
+.blink{animation:blink 1s steps(1) infinite}
+.dot{fill:#78aaff;animation:drift 9s ease-in-out infinite}
+.bglow{opacity:.55;animation:bp 2.8s ease-in-out infinite}@keyframes bp{50%{opacity:.95}}
+.bsh{transform:translateX(-90px);animation:bsh 3.6s ease-in-out 1s infinite}@keyframes bsh{0%{transform:translateX(-90px)}35%,100%{transform:translateX(256px)}}</style><defs><linearGradient id="bs" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="bg" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="6"/></filter>
+<clipPath id="bc"><rect x="8" y="8" width="220" height="48" rx="4"/></clipPath></defs>
+<rect class="bglow" x="8" y="8" width="220" height="48" rx="4" fill="#4d8dff" filter="url(#bg)"/>
+<rect x="8" y="8" width="220" height="48" rx="4" fill="#4d8dff"/>
+<g clip-path="url(#bc)"><rect class="bsh" x="0" y="0" width="70" height="64" fill="url(#bs)"/></g>
+<text x="118.0" y="38.0" text-anchor="middle" class="d" font-size="17" font-weight="600" letter-spacing="1" fill="#02060d">VISIT PORTFOLIO  ↗</text></svg>

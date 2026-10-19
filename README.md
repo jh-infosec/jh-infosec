@@ -1,35 +1,34 @@
-<p align="center">
-  <a href="https://jh-infosec.github.io">
-    <img src="./banner.svg" alt="JHinfosec: MSc Cybersecurity with AI student, HTB CJCA, working toward CPTS and OSCP+" width="100%">
-  </a>
-</p>
+<a href="https://jh-infosec.github.io"><img src="./hero.svg" width="100%" alt="JHinfosec: Hack The Box CJCA certified, MSc Cybersecurity with AI student"></a>
 
 <p align="center">
-  <a href="https://jh-infosec.github.io"><img src="https://img.shields.io/badge/portfolio-jh--infosec.github.io-4d8dff?style=for-the-badge&labelColor=04080f" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/HTB-CJCA-5be3a0?style=for-the-badge&labelColor=04080f" alt="HTB CJCA">
-  <img src="https://img.shields.io/badge/next-CPTS%20%E2%86%92%20OSCP%2B-ffb547?style=for-the-badge&labelColor=04080f" alt="Next: CPTS then OSCP+">
+<a href="https://jh-infosec.github.io"><img src="./btn-portfolio.svg" height="58" alt="Visit portfolio"></a>
+<a href="https://github.com/jh-infosec/HTB-Writeups"><img src="./btn-writeups.svg" height="58" alt="HTB writeups"></a>
+<a href="https://jh-infosec.github.io/#contact"><img src="./btn-contact.svg" height="58" alt="Get in touch"></a>
 </p>
 
-### `$ whoami`
+<img src="./strip.svg" width="100%" alt="HTB CJCA passed Oct 2026 · Best root: Principal · MSc Cyber + AI · Next: CPTS then OSCP+">
 
-MSc Cybersecurity with AI student at the University of Lancashire and Hack The Box CJCA certified. I'm working toward CPTS and OSCP+, and I build AI red team and defensive tooling to learn with, then take it apart line by line.
+<img src="./terminal.svg" width="100%" alt="whoami: HTB CJCA certified, CPTS and OSCP+ next, MSc Cyber + AI">
 
-**Goal:** senior pentester or senior AI security engineer.
+<img src="./head-projects.svg" width="100%" alt="What I've built">
 
-### `$ ls ~/projects`
+<a href="https://github.com/jh-infosec/Shadowfax"><img src="./card-shadowfax.svg" width="100%" alt="Shadowfax: AI security operations platform for monitoring autonomous AI agents"></a>
 
-| Project | What it does | Stack |
-|---|---|---|
-| **Shadowfax** | Security ops platform that treats AI agents as first-class identities. Detection stays deterministic; LLMs only explain. | Python · FastAPI · SQLite · React |
-| **maltriage** | Static malware triage: hashes, format ID, streaming entropy, severity-ranked JSON findings. | Python · pytest |
-| **claude-recon-agent** | AI study agent: recon on the red side, log hunting on the blue side, mapped to MITRE ATT&CK, with a fail-closed scope check. | Python · Claude API |
-| **ShadowClip** | Kali clipboard manager with pinning, search and a secret filter. History lives in tmpfs. | Bash · GTK3 · systemd |
-| **ShadowSnip** | Snipping Tool style capture that copies a compressed image the moment a snip ends. | Python · Windows |
+<p align="center">
+<a href="https://github.com/jh-infosec/Maltriage"><img src="./card-maltriage.svg" width="49%" alt="Maltriage: static malware triage pipeline"></a>
+<a href="https://github.com/jh-infosec/AI-Recon-Agent"><img src="./card-recon.svg" width="49%" alt="AI-Recon-Agent: recon agent for practising offensive-security methodology"></a>
+</p>
+<p align="center">
+<a href="https://github.com/jh-infosec/ShadowSnip"><img src="./card-shadowsnip.svg" width="49%" alt="ShadowSnip: snipping tool for pentest evidence"></a>
+<a href="https://github.com/jh-infosec/ShadowClip"><img src="./card-shadowclip.svg" width="49%" alt="ShadowClip: clipboard history popup for Kali"></a>
+</p>
+<p align="center">
+<a href="https://github.com/jh-infosec/HTB-Writeups"><img src="./card-writeups.svg" width="49%" alt="HTB-Writeups: Hack The Box writeups, tools and notes"></a>
+<a href="https://jh-infosec.github.io"><img src="./card-portfolio.svg" width="49%" alt="jh-infosec.github.io: the interactive portfolio"></a>
+</p>
 
-### `$ cat now.txt`
+<img src="./skills.svg" width="100%" alt="Skill tree: what I'm working on">
 
-- Studying for the MSc and preparing for HTB CPTS
-- Writing maltriage v0.2 (PE parsing) from scratch
-- Thirty minutes of Python every day
+<img src="./journey.svg" width="100%" alt="Where I'm heading: CJCA certified, MSc now, CPTS then OSCP+">
 
-<sub>All testing is done on systems I'm authorized to test: HTB, THM and my own lab.</sub>
+<a href="https://jh-infosec.github.io/#contact"><img src="./contact.svg" width="100%" alt="Open to internships and junior security roles"></a>
