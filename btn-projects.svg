@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="228" height="64" viewBox="0 0 228 64" role="img" aria-label="View Projects"><title>View Projects</title><style>@font-face{font-family:'CP';font-weight:600;src:url(data:font/woff2;base64,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) format('woff2')}
+
+.m{font-family:'JBM',ui-monospace,Consolas,Menlo,monospace} .d{font-family:'CP','Segoe UI',system-ui,sans-serif} .b{font-family:'PX','Segoe UI',system-ui,sans-serif}
+@keyframes blink{50%{opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes rspin{to{transform:rotate(-360deg)}}
+@keyframes drift{0%,100%{transform:translate(0,0);opacity:.25}50%{transform:translate(16px,-12px);opacity:.9}}
+@keyframes rise{}
+@keyframes pulse{50%{opacity:.35}}
+.rise{}
+.blink{animation:blink 1s steps(1) infinite}
+.dot{fill:#78aaff;animation:drift 9s ease-in-out infinite}
+.bglow{opacity:.55;animation:bp 2.8s ease-in-out infinite}@keyframes bp{50%{opacity:.95}}
+.bsh{transform:translateX(-90px);animation:bsh 3.6s ease-in-out 1s infinite}@keyframes bsh{0%{transform:translateX(-90px)}35%,100%{transform:translateX(248px)}}</style><defs><linearGradient id="bs" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="bg" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="6"/></filter>
+<clipPath id="bc"><rect x="8" y="8" width="212" height="48" rx="4"/></clipPath></defs>
+<g class="bglow"><rect x="2" y="2" width="224" height="60" rx="9" fill="#4d8dff" fill-opacity=".12"/><rect x="5" y="5" width="218" height="54" rx="6" fill="#4d8dff" fill-opacity=".2"/></g>
+<rect x="8" y="8" width="212" height="48" rx="4" fill="#4d8dff"/>
+<g clip-path="url(#bc)"><rect class="bsh" x="0" y="0" width="70" height="64" fill="url(#bs)"/></g>
+<text x="114.0" y="38.0" text-anchor="middle" class="d" font-size="17" font-weight="600" letter-spacing="1" fill="#02060d">VIEW PROJECTS  →</text></svg>

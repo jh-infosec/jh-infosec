@@ -1,16 +1,14 @@
 <a href="https://jh-infosec.github.io"><img src="./hero.svg" width="100%" alt="JHinfosec: Hack The Box CJCA certified, MSc Cybersecurity with AI student"></a>
 
 <p align="center">
+<a href="https://github.com/jh-infosec?tab=repositories"><img src="./btn-projects.svg" height="58" alt="View projects"></a>
 <a href="https://jh-infosec.github.io"><img src="./btn-portfolio.svg" height="58" alt="Visit portfolio"></a>
-<a href="https://github.com/jh-infosec/HTB-Writeups"><img src="./btn-writeups.svg" height="58" alt="HTB writeups"></a>
 <a href="https://jh-infosec.github.io/#contact"><img src="./btn-contact.svg" height="58" alt="Get in touch"></a>
 </p>
 
-<img src="./strip.svg" width="100%" alt="HTB CJCA passed Oct 2026 · Best root: Principal · MSc Cyber + AI · Next: CPTS then OSCP+">
+<a href="https://jh-infosec.github.io"><img src="./strip.svg" width="100%" alt="HTB CJCA passed Oct 2026 · Best root: Principal · MSc Cyber + AI · Next: CPTS then OSCP+"></a>
 
-<img src="./terminal.svg" width="100%" alt="whoami: HTB CJCA certified, CPTS and OSCP+ next, MSc Cyber + AI">
-
-<img src="./head-projects.svg" width="100%" alt="What I've built">
+<a href="https://github.com/jh-infosec?tab=repositories"><img src="./head-projects.svg" width="100%" alt="What I've built: all repositories"></a>
 
 <a href="https://github.com/jh-infosec/Shadowfax"><img src="./card-shadowfax.svg" width="100%" alt="Shadowfax: AI security operations platform for monitoring autonomous AI agents"></a>
 
@@ -27,8 +25,8 @@
 <a href="https://jh-infosec.github.io"><img src="./card-portfolio.svg" width="49%" alt="jh-infosec.github.io: the interactive portfolio"></a>
 </p>
 
-<img src="./skills.svg" width="100%" alt="Skill tree: what I'm working on">
+<a href="https://jh-infosec.github.io/#focus"><img src="./skills.svg" width="100%" alt="Skill tree: what I'm working on"></a>
 
-<img src="./journey.svg" width="100%" alt="Where I'm heading: CJCA certified, MSc now, CPTS then OSCP+">
+<a href="https://jh-infosec.github.io/#journey"><img src="./journey.svg" width="100%" alt="Where I'm heading: CJCA certified, MSc now, CPTS then OSCP+"></a>
 
 <a href="https://jh-infosec.github.io/#contact"><img src="./contact.svg" width="100%" alt="Open to internships and junior security roles"></a>
